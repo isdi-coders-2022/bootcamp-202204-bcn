@@ -15,3 +15,5 @@
 [Challenge 1: Git & GitHub](/week1/challenges/challenge1/)
 
 [Challenge 2: Nuestra web](/week1/challenges/challenge2/)
+
+[Challenge 3: Maquetación Pets](/week1/challenges/challenge3/)
