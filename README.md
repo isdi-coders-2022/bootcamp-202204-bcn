@@ -10,6 +10,8 @@
 
 [Exercise 4: CV](/week1/exercises/exercise-html-cv)
 
+[Exercise 5: CSS Selectors](/week1/exercises/exercise-css-selectors)
+
 [Challenge 1: Git & GitHub](/week1/challenges/challenge1/)
 
 [Challenge 2: Nuestra web](/week1/challenges/challenge2/)
