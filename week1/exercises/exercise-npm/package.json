@@ -1,0 +1,17 @@
+{
+  "name": "exercise-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "galaxian": "^1.2.0",
+    "hangman-game": "^1.0.6",
+    "socket-pong": "^0.5.10"
+  }
+}

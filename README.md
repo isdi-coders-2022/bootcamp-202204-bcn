@@ -16,6 +16,8 @@
 
 [Exercise 7: CSS Header](/week1/exercises/exercise-css-header)
 
+[Exercise 8: npm](/week1/exercises/exercise-npm)
+
 [Challenge 1: Git & GitHub](/week1/challenges/challenge1/)
 
 [Challenge 2: Nuestra web](/week1/challenges/challenge2/)
