@@ -29,3 +29,7 @@
 [Challenge 4: Maquetación Lista de la compra](/week1/challenges/challenge4/)
 
 [Challenge Weekend: Panic Studio](/week1/challenges/challenge-weekend/)
+
+## Week 2
+
+[Exercise 1: HTML+CSS Components](/week2/exercises/exercise-html-css-components)
