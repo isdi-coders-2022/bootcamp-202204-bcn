@@ -33,3 +33,5 @@
 ## Week 2
 
 [Exercise 1: HTML+CSS Components](/week2/exercises/exercise-html-css-components)
+
+[Challenge 2: strictEquals](/week2/challenges/challenge2/)
