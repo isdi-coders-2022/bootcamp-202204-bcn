@@ -15,4 +15,4 @@ Algoritmo para detectar si es palíndromo:
 Pistas:
 
 - Expresión regular para detectar espacios y signos de puntuación: `/[.,:;()_?¿!¡-\s]/g`
-- Cambiar letras con acentos por letras sin acentos: `texto.normalize("NFD").replace(/\p{Diacritic}/gu, "")`
+- Cambiar letras con acentos por letras sin acentos: `texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "")`
