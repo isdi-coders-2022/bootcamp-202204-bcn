@@ -37,3 +37,5 @@
 [Exercise 2: Palindrome](/week2/exercises/exercise-palindrome)
 
 [Challenge 2: strictEquals](/week2/challenges/challenge2/)
+
+[Challenge 3: Precurso](/week2/challenges/challenge3/)
