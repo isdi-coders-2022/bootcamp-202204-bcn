@@ -36,6 +36,8 @@
 
 [Exercise 2: Palindrome](/week2/exercises/exercise-palindrome)
 
+[Exercise 3: Case convert](/week2/exercises/exercise-case-convert)
+
 [Challenge 2: strictEquals](/week2/challenges/challenge2/)
 
 [Challenge 3: Precurso](/week2/challenges/challenge3/)
