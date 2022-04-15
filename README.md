@@ -38,8 +38,10 @@
 
 [Exercise 3: Case convert](/week2/exercises/exercise-case-convert)
 
+[Exercise 4: GoT](/week2/exercises/exercise-got)
+
 [Challenge 2: strictEquals](/week2/challenges/challenge2/)
 
 [Challenge 3: Precurso](/week2/challenges/challenge3/)
 
-[Challenge 3: Array methods](/week2/challenges/challenge4/)
+[Challenge 4: Array methods](/week2/challenges/challenge4/)
