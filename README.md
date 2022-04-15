@@ -45,3 +45,5 @@
 [Challenge 3: Precurso](/week2/challenges/challenge3/)
 
 [Challenge 4: Array methods](/week2/challenges/challenge4/)
+
+[Challenge Weekend: Game of Life](/week2/challenges/challenge-weekend/)
