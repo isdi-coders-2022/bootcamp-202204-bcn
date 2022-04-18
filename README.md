@@ -51,3 +51,5 @@
 ## Week 3
 
 [Exercise 1: Patients](/week3/exercises/exercise-patients)
+
+[Challenge 1: GoT DOM](/week3/challenges/challenge1/)
