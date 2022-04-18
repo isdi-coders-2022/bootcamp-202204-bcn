@@ -47,3 +47,7 @@
 [Challenge 4: Array methods](/week2/challenges/challenge4/)
 
 [Challenge Weekend: Game of Life](/week2/challenges/challenge-weekend/)
+
+## Week 3
+
+[Exercise 1: Patients](/week3/exercises/exercise-patients)
