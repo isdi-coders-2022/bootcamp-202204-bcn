@@ -59,3 +59,7 @@
 [Challenge 3: Series](/week3/challenges/challenge3/)
 
 [Challenge WeekEnd: PokeAPI](/week3/challenges/challenge-weekend/)
+
+## Week 4
+
+[Exercise 1: Katas React](/week4/exercises/exercise-react-katas)
