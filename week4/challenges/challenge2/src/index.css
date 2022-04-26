@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #222;
+  color: #fff;
+}
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+.main-container {
+  display: flex;
+  justify-content: space-between;
+}

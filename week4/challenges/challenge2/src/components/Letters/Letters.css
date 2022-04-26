@@ -1,0 +1,14 @@
+.letters {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+.letter a {
+  text-decoration: none;
+  color: inherit;
+  font-size: 32px;
+  margin-left: 5px;
+  margin-right: 5px;
+}

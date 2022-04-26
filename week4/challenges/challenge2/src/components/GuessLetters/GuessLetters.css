@@ -1,0 +1,22 @@
+.guess-letters {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 20px 0;
+  padding: 0;
+  height: 80px;
+  justify-content: center;
+  border: 3px solid #fff;
+  border-radius: 10px;
+}
+.guess-letter {
+  width: 30px;
+  height: 38px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  font-size: 33px;
+}
+.guess-letter.empty {
+  border-bottom: 2px solid #fff;
+}

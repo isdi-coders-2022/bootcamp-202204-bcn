@@ -65,3 +65,5 @@
 [Exercise 1: Katas React](/week4/exercises/exercise-react-katas)
 
 [Challenge 1: Señores React](/week4/challenges/challenge1/)
+
+[Challenge 2: Ahorcado](/week4/challenges/challenge2/)
