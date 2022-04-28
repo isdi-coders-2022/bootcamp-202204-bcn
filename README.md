@@ -70,4 +70,4 @@
 
 [Challenge 3: Teléfono](/week4/challenges/challenge3/)
 
-[Challenge 3: Testing teléfono](/week4/challenges/challenge4/)
+[Challenge 4: Testing teléfono](/week4/challenges/challenge4/)

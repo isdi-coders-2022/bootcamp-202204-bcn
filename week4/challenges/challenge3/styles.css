@@ -58,7 +58,7 @@ li {
 }
 .key:disabled {
   cursor: default;
-  opacity: 0message;
+  opacity: 0;
 }
 .key:not(disabled):hover {
   background-color: #454545;
