@@ -71,3 +71,5 @@
 [Challenge 3: Teléfono](/week4/challenges/challenge3/)
 
 [Challenge 4: Testing teléfono](/week4/challenges/challenge4/)
+
+[Challenge Weekend: Preparativos](/week4/challenges/challenge-weekend/)
