@@ -77,3 +77,7 @@
 ## Week 5
 
 [Proyecto de equipo](/week5/)
+
+## Week 6
+
+[Exercise 1: Lista de la compra Redux](/week6/exercises/exercise-lista-compra-redux)
