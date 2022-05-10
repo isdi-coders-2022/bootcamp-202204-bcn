@@ -83,3 +83,5 @@
 [Exercise 1: Lista de la compra Redux](/week6/exercises/exercise-lista-compra)
 
 [Challenge 1: ToDo App Redux](/week6/challenges/challenge1/)
+
+[Challenge 2: ToDo App Redux con API](/week6/challenges/challenge2/)
