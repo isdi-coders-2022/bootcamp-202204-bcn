@@ -1,0 +1,19 @@
+body {
+  background-color: #ff8d27;
+}
+* {
+  box-sizing: border-box;
+}
+h1,
+h2 {
+  font-weight: 500;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+body,
+input,
+button {
+  color: #212529;
+}
