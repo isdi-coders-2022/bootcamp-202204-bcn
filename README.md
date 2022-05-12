@@ -89,3 +89,5 @@
 [Challenge 1: ToDo App Redux](/week6/challenges/challenge1/)
 
 [Challenge 2: ToDo App Redux con API](/week6/challenges/challenge2/)
+
+[Challenge 3: Things I already know](/week6/challenges/challenge3/)
