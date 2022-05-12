@@ -84,6 +84,8 @@
 
 [Exercise 2: Debugging Projects](/week6/exercises/exercise-projects-bugs)
 
+[Exercise 3: Calculadora](/week6/exercises/exercise-calculadora)
+
 [Challenge 1: ToDo App Redux](/week6/challenges/challenge1/)
 
 [Challenge 2: ToDo App Redux con API](/week6/challenges/challenge2/)
