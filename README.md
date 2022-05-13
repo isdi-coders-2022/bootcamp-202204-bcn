@@ -91,3 +91,5 @@
 [Challenge 2: ToDo App Redux con API](/week6/challenges/challenge2/)
 
 [Challenge 4: Things I already know](/week6/challenges/challenge4/)
+
+[Challenge Weekend: Robots](/week6/challenges/challenge-weekend/)
