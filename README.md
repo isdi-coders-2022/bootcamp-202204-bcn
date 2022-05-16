@@ -93,3 +93,7 @@
 [Challenge 4: Things I already know](/week6/challenges/challenge4/)
 
 [Challenge Weekend: Robots](/week6/challenges/challenge-weekend/)
+
+## Week 7
+
+[Exercise 1: Auth](/week7/exercises/exercise-auth)
