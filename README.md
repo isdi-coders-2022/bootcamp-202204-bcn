@@ -97,3 +97,5 @@
 ## Week 7
 
 [Exercise 1: Auth](/week7/exercises/exercise-auth)
+
+[Challenge 1: Series API](/week7/challenges/challenge-1/)
