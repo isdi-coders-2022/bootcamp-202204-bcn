@@ -98,4 +98,6 @@
 
 [Exercise 1: Auth](/week7/exercises/exercise-auth)
 
+[Exercise 2: Cat kinds](/week7/exercises/exercise-cat-kinds)
+
 [Challenge 1: Series API](/week7/challenges/challenge-1/)
