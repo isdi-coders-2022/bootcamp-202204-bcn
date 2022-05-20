@@ -17,7 +17,11 @@ En este ejercicio crearás una API para leer, crear, modificar y borrar de una b
 4. Crea los siguientes endpoints, que llamarán a los métodos anteriores.
 
 (GET) /kinds/list
+
 (GET) /kinds/kind/:id
+
 (POST) /kinds/new-kind
+
 (PUT) /kinds/kind/:id
+
 (DELETE) /kinds/kind/:id
