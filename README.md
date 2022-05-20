@@ -101,3 +101,5 @@
 [Exercise 2: Cat kinds](/week7/exercises/exercise-cat-kinds)
 
 [Challenge 1: Series API](/week7/challenges/challenge-1/)
+
+[Challenge Weekend: Red social](/week7/challenges/challenge-weekend/)
