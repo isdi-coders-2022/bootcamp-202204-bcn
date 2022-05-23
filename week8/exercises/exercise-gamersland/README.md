@@ -26,7 +26,7 @@ Requisitos ambos lados:
 
 - Hooks de husky
 - Workflows para audit y testing
-- Rama master protegida con PR y con ambos workflows
+- Rama master protegida con PR (2 approvals) y con ambos workflows
 
 ## Front
 
@@ -36,7 +36,7 @@ La app tendrá tres rutas:
 
 /login -> formulario de login
 
-/registro -> formulario de registro
+/register -> formulario de registro
 
 Crea también una página para el 404 y haz que la ruta / redirija a /games
 
