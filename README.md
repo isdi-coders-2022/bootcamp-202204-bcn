@@ -103,3 +103,7 @@
 [Challenge 1: Series API](/week7/challenges/challenge-1/)
 
 [Challenge Weekend: Red social](/week7/challenges/challenge-weekend/)
+
+## Week 8
+
+[Exercise 1: Hackathon GamersLand](/week8/exercises/exercise-gamersland)
