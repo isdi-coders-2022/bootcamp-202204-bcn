@@ -26,9 +26,9 @@ Requisitos ambos lados:
 
 - Hooks de husky
 - Workflows para audit y testing
-- Rama master protegida con PR (2 approvals) y con ambos workflows
+- Rama master protegida con PR y con ambos workflows
 
-## Front
+### Front
 
 La app tendrá tres rutas:
 
@@ -36,14 +36,40 @@ La app tendrá tres rutas:
 
 /login -> formulario de login
 
-/register -> formulario de registro
+/registro -> formulario de registro
 
 Crea también una página para el 404 y haz que la ruta / redirija a /games
 
-## Back
+### Back
 
 La app tendrá dos endpoints:
 
 POST /user/register -> recibe en el body las credenciales `name`, `username` y `password`
 
 POST /user/login -> recibe en el body las credenciales `username` y `password`
+
+## Fase 2
+
+### Front
+
+La ruta /games (protegida) presentará un listado de juegos. Cada juego presentará los siguientes datos:
+
+- Nombre
+- Imagen
+- Tipo
+- Plataformas (logos)
+
+Habrá una ruta /games/view/:gameId (protegida) que presentará una página detallada de un juego, donde se verán, además de los datos anteriores:
+
+- Año de lanzamiento
+- Descripción
+- Puntuación (0-5)
+- Jugado (booleano)
+
+### Back
+
+Se crearán tres endpoints más, protegidos por JWT:
+
+GET /games/ --> devuelve todos los juegos
+GET /games/:gameId --> devuelve un juego
+GET /games/platform/:platform --> devuelve todos los juegos de una plataforma
