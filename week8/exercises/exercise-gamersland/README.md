@@ -71,5 +71,7 @@ Habrá una ruta /games/view/:gameId (protegida) que presentará una página deta
 Se crearán tres endpoints más, protegidos por JWT:
 
 GET /games/ --> devuelve todos los juegos
+
 GET /games/:gameId --> devuelve un juego
+
 GET /games/platform/:platform --> devuelve todos los juegos de una plataforma
