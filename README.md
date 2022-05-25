@@ -108,4 +108,4 @@
 
 [Exercise 1: Hackathon GamersLand](/week8/exercises/exercise-gamersland)
 
-[Exercise 2: Average balances TS](/week8/exercises/exercise-average-balances-ts);
+[Exercise 2: Average balances TS](/week8/exercises/exercise-average-balances-ts)
