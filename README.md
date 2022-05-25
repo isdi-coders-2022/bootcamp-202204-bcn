@@ -109,3 +109,5 @@
 [Exercise 1: Hackathon GamersLand](/week8/exercises/exercise-gamersland)
 
 [Exercise 2: Average balances TS](/week8/exercises/exercise-average-balances-ts)
+
+[Challenge 1: Prueba técnica Star Wars](/week8/challenges/challenge-1/)
