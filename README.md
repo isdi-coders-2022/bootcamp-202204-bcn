@@ -115,3 +115,7 @@
 [Challenge 2: Robots Factory](/week8/challenges/challenge-2/)
 
 [Challenge Weekend: Preparativos proyecto final](/week8/challenges/challenge-weekend/)
+
+## Week 9
+
+[Proyecto final](/week9/proyecto-final/)
