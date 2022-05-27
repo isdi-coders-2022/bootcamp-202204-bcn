@@ -113,3 +113,5 @@
 [Challenge 1: Prueba técnica Star Wars](/week8/challenges/challenge-1/)
 
 [Challenge 2: Robots Factory](/week8/challenges/challenge-2/)
+
+[Challenge Weekend: Preparativos proyecto final](/week8/challenges/challenge-weekend/)
